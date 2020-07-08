@@ -8,7 +8,7 @@
 	{ "id": 6, "CPU_UTILIZATION": 85, "MEMORY_UTILIZATION": 75,"DISK_UTILIZATION": 60 },
     { "id": 7, "CPU_UTILIZATION": 45, "MEMORY_UTILIZATION": 23,"DISK_UTILIZATION": 16}
   ],
-  output:[
+  "output":[
       { "id": 1, "alert": "No Alert, 1"}
   ]
 }
